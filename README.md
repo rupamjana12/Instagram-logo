@@ -7,5 +7,4 @@ Screen shot of the logo:
 
 <hr>
 
-![Screenshot (98)](https://user-images.githubusercontent.com/73645004/137577449-12423bc5-d411-49cc-9963-fd1ab6960539.png)
-
+![Screenshot (98)](https://user-images.githubusercontent.com/73645004/137577482-cffcd68a-60ae-4a39-bdae-93757635d7e0.png)
